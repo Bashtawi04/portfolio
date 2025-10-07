@@ -1,45 +1,50 @@
 # Yahya AlBashtawi – AI & Machine Learning Portfolio
 
-🚀 MSc Artificial Intelligence @ Queen Mary University of London  
-💡 Passionate about LLMs, NLP, time series, and ethical AI
+🎓 MSc Artificial Intelligence – Queen Mary University of London (2025)  
+💡 Focused on LLMs, NLP, time series forecasting, and efficient AI systems  
+⚙️ Experienced in full-stack ML pipelines, model fine-tuning, and data analysis
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 1. Forex Time Series Forecasting (Final Year Project)
-- Built an LSTM model to predict EUR/USD price movement
-- Integrated MACD, RSI, Fibonacci retracement as features
-- Evaluated using RMSE and R² on test sets
+### 🔹 Fine-Tuning LLMs Under Single-GPU Constraints (MSc Thesis)
+- Benchmarked Full Fine-Tuning vs PEFT methods (LoRA, BitFit, Prefix, Prompt, IA³, Adapters) on BERT-base  
+- Evaluated accuracy, F1, VRAM usage, and training time on IMDb and AG News  
+- Found that Prompt Tuning, LoRA, and Adapters achieved near full-tuning results with up to 56% less VRAM  
+- Tools: Hugging Face, PyTorch, PEFT, JupyterHub
+
+### 🔹 Forex Time Series Forecasting (BSc Final Project)
+- Built an LSTM model to predict EUR/USD price trends using MACD, RSI, and Fibonacci features  
+- Achieved R² = 0.89 and low MSE across multiple timeframes  
 - Tools: PyTorch, yfinance, pandas, matplotlib
 
-### 🔹 2. Sentiment Classification using BERT
-- Fine-tuned `bert-base-uncased` on IMDb sentiment dataset
-- Used LoRA & BitFit for parameter-efficient training
-- Compared performance across learning rates and batch sizes
-- Tools: Hugging Face Transformers, PyTorch, Google Colab
+### 🔹 Sentiment Classification with BERT
+- Fine-tuned `bert-base-uncased` on IMDb using LoRA and BitFit  
+- Compared metrics across learning rates and batch sizes to optimize accuracy  
+- Tools: Hugging Face, PyTorch, Google Colab
 
-### 🔹 3. CNN Model Evaluation – MNIST & CIFAR-10
-- Implemented and trained VGG16, ResNet18, GoogleNet from scratch
-- Analyzed training loss curves and model accuracy
-- Tools: PyTorch, Matplotlib, scikit-learn
+### 🔹 CNN Evaluation – MNIST & CIFAR-10
+- Trained and evaluated VGG16, ResNet18, and GoogleNet architectures  
+- Compared accuracy, convergence, and parameter efficiency  
+- Tools: PyTorch, scikit-learn, matplotlib
 
-### 🔹 4. Copy-When-Uncertain Agent Simulation
-- Simulated social learning using RL agents in high/low variance environments
-- Compared exploration vs imitation strategies
-- Based on Smolla et al. (2016)
+### 🔹 Copy-When-Uncertain Simulation
+- Modeled reinforcement-learning agents that learn via exploration or imitation under variable uncertainty  
+- Visualized performance differences between strategies  
 - Tools: Python, NumPy, Matplotlib
 
 ---
 
-## 🛠️ Tools & Skills
-- Python, PyTorch, Hugging Face, Scikit-learn, NumPy, Pandas  
-- Git, Google Colab, VS Code  
-- LLM fine-tuning (LoRA, BitFit), CNNs, LSTMs  
-- Data preprocessing, visualisation, model evaluation
+## 🧠 Core Skills
+- **Languages:** Python, TypeScript, Java  
+- **Frameworks:** PyTorch, TensorFlow, Hugging Face, Node.js, React Native  
+- **ML Areas:** LLM Fine-Tuning (LoRA, BitFit, Prefix, Prompt, Adapters), CNNs, LSTMs  
+- **Tools:** Git, Jupyter, VS Code, Google Colab  
+- **Other:** Data Visualization, Model Evaluation, Workflow Automation (n8n)
 
 ---
 
-## 📫 Let’s Connect
-- 📧 ec24141@qmul.ac.uk
-- 🌍 [LinkedIn](https://linkedin.com/in/your-link)
+## 📫 Connect
+📧 yahyalbashtawi@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/yahya-albashtawi-016926255/) 
