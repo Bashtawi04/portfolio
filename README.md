@@ -1,12 +1,12 @@
 # Yahya AlBashtawi – AI & Machine Learning Portfolio
 
-🎓 MSc Artificial Intelligence – Queen Mary University of London (2025)  
-💡 Focused on LLMs, NLP, time series forecasting, and efficient AI systems  
-⚙️ Experienced in full-stack ML pipelines, model fine-tuning, and data analysis
+ MSc Artificial Intelligence – Queen Mary University of London (2025)  
+ Focused on LLMs, NLP, time series forecasting, and efficient AI systems  
+ Experienced in full-stack ML pipelines, model fine-tuning, and data analysis
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 Fine-Tuning LLMs Under Single-GPU Constraints (MSc Thesis)
 - Benchmarked Full Fine-Tuning vs PEFT methods (LoRA, BitFit, Prefix, Prompt, IA³, Adapters) on BERT-base  
@@ -36,7 +36,7 @@
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 - **Languages:** Python, TypeScript, Java  
 - **Frameworks:** PyTorch, TensorFlow, Hugging Face, Node.js, React Native  
 - **ML Areas:** LLM Fine-Tuning (LoRA, BitFit, Prefix, Prompt, Adapters), CNNs, LSTMs  
@@ -45,6 +45,6 @@
 
 ---
 
-## 📫 Connect
+##  Connect
 📧 yahyalbashtawi@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/yahya-albashtawi-016926255/) 
